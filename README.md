@@ -1,7 +1,6 @@
 # TinDog Project
 
-HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
-https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
+Tinder for dogs. That's right! I'm taking a full stack developer course and to practice, I made a tinder for dogs. It was an idea proposed by the course teacher and I found it very creative and funny and wanted to try it. Hope you like it. That's it!!
 
 ## SVGs:
 
